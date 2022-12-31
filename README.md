@@ -53,6 +53,16 @@ Op固件技术研究群 ,号码 891659613 ，加群链接：[点击加入](https
    make download -j8
    screen -S r
    make V=s -j1
+   make V=s -j1
+   make V=s -j1
+   make V=s -j1
+   make V=s -j1
+   make V=s -j1
+   make V=s -j1
+   make V=s -j1
+   make V=s -j1
+   make V=s -j1
+   
    ```
 
 本套代码保证肯定可以编译成功。里面包括了 R22 所有源代码，包括 IPK 的。
