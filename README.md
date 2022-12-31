@@ -50,7 +50,6 @@ Op固件技术研究群 ,号码 891659613 ，加群链接：[点击加入](https
 （-j 后面是线程数，第一次编译推荐用单线程）
 
    ```bash
-   screen -S r
    make download -j8
    make download -j8
    make download -j8
