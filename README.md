@@ -51,6 +51,7 @@ Op固件技术研究群 ,号码 891659613 ，加群链接：[点击加入](https
 
    ```bash
    make download -j8
+   screen -S r
    make V=s -j1
    ```
 
